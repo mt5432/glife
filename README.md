@@ -1,0 +1,2 @@
+# glife
+game of life
